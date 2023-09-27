@@ -48,6 +48,6 @@ class ViewController: UIViewController {
 
 Para mais informações sobre RxSwift, consulte a documentação oficial: https://github.com/ReactiveX/RxSwift.
 
-Data de criação: 2023-09-27
+Data de criação: 2023-09-27  
 Autor: Obde Willy
 
